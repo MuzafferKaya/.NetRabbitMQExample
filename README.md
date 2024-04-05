@@ -1,2 +1,2 @@
 # RabbitMQExample
-Console App .NET 8 RabbitMQ Example
+.NET 8 Console App RabbitMQ Example
